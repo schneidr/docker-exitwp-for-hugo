@@ -1,0 +1,3 @@
+[submodule "exitwp-for-hugo"]
+	path = exitwp-for-hugo
+	url = https://github.com/wooni005/exitwp-for-hugo
